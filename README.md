@@ -2,7 +2,7 @@
 
 ### Apple Developer Academy Student & Polyglot
 
-I am an iOS Developer focused on building seamless, user-centric experiences. Currently pursuing specialized training in Software Engineering at the **Apple Developer Academy**, I blend technical precision with a deep understanding of human communication—a skill I've honed through my journey as a **polyglot** and **Bachelor’s student in Psychology**.
+I am an iOS Developer focused on building seamless, user-centric experiences. Currently pursuing specialized training in Software Engineering at the **Apple Developer Academy**, I blend technical precision with a deep understanding of human communication, a skill I've honed through my journey as a **polyglot** and **Bachelor’s student in Psychology**.
 
 ---
 
