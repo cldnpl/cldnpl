@@ -23,11 +23,6 @@ I am an iOS Developer focused on building seamless, user-centric experiences. Cu
 
 ---
 
-## 📈 Open Source & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cldnpl&show_icons=true&theme=vibrant&title_color=007AFF&icon_color=007AFF&text_color=000000" alt="Claudia's GitHub Stats" />
-</p>
 
 ## 🗺️ Beyond the Code
 
