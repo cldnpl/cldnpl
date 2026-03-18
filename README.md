@@ -1,4 +1,4 @@
-# Claudia | iOS Developer 🍎
+# Claudia Napolitano | iOS Developer 🍎
 
 ### Apple Developer Academy Student & Polyglot
 
