@@ -40,4 +40,4 @@ Everything I do, from learning a new language (both in coding and irl!) to playi
 
 * **Portfolio**: [portfolio-azure-nine-59.vercel.app](https://portfolio-azure-nine-59.vercel.app/)
 * **LinkedIn**: [linkedin.com/in/claudianapolitano](https://www.linkedin.com/in/claudianapolitano/)
-* **Email**: [claudia.napolitano@example.it](mailto:claudia.napolitano@example.it)
+* **Email**: [claudia.napolitano@example.it](mailto:napolitano.claudia@icloud.com)
