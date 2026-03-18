@@ -6,7 +6,7 @@ I am an iOS Developer focused on building seamless, user-centric experiences. Cu
 
 ---
 
-## 💼 Professional Focus
+## 💼  Professional Focus
 
 * **iOS Development**: Crafting intuitive applications using Swift and SwiftUI, with a strong emphasis on Apple's Human Interface Guidelines.
 * **Design Thinking**: Applying the Academy's challenge-based learning to solve complex problems through user research and iterative prototyping.
