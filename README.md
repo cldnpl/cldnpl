@@ -1,4 +1,4 @@
-# Claudia Napolitano 🍎
+# Claudia Napolitano ♡
 
 ### iOS Developer | Apple Developer Academy
 
