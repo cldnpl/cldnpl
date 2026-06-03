@@ -19,7 +19,7 @@ As a **Psychology** student and **polyglot**, I approach software architecture a
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | Swift, Kotlin, Objective-C, Python |
-| **Frameworks** | SwiftUI, Jetpack Compose, UIKit, Combine, SwiftData |
+| **Frameworks** | SwiftUI, Jetpack Compose, UIKit, Combine, ARKit |
 | **Architecture** | MVVM, MVC, Clean Architecture, Clean Code |
 | **Tools** | Xcode, Android Studio, Git, TestFlight, Figma |
 | **Methodology** | Scrum, Design Thinking, Agile |
