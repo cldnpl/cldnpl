@@ -36,6 +36,6 @@ Everything I do, from mastering a new language to playing an instrument, is a wa
 
 ## 📫 Connect with me
 
-* **Portfolio**: [[portfolio-azure-nine-59.vercel.app](https://portfolio-azure-nine-59.vercel.app/](https://claudianapolitano.dev/))
+* **Portfolio**: [claudianapolitano.dev](https://claudianapolitano.dev/)
 * **LinkedIn**: [claudia-napolitano](https://www.linkedin.com/in/claudia-napolitano-1660b533a/)
 * **Email**: [napolitano.claudia@icloud.com](mailto:napolitano.claudia@icloud.com)
