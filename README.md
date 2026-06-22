@@ -34,7 +34,6 @@ Everything I do, from mastering a new language to playing an instrument, is a wa
 
 ---
 <img src="github-metrics.svg" alt="Le mie metriche GitHub" width="100%">
-
 ---
 
 ## 📫 Connect with me
