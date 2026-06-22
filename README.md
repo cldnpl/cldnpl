@@ -33,7 +33,8 @@ When I'm not in an IDE, I’m usually keeping my mind sharp in other ways. I’m
 Everything I do, from mastering a new language to playing an instrument, is a way for me to understand how complex systems work and how the world is structured.
 
 ---
-<img src="github-metrics.svg" alt="Le mie metriche GitHub" width="100%">
+<img src="github-metrics.svg" alt="Le mie metriche GitHub" width="60%">
+
 ---
 
 ## 📫 Connect with me
