@@ -4,8 +4,6 @@
 
 I am a **Mobile Developer** dedicated to building seamless, high-performance, and user-centric experiences. While my current focus is specialized in **iOS Development** through the **Apple Developer Academy**, I have a strong foundation in native mobile engineering across platforms, blending technical precision with a deep understanding of human communication.
 
-As a **Psychology** graduated and **polyglot**, I approach software architecture as a form of structured logic designed to enhance human interaction.
-
 ---
 
 ## 💼 Professional Focus
